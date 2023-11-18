@@ -1,2 +1,0 @@
-# javaproject
-java simple application
